@@ -7,3 +7,4 @@ trala lala
 
 
 [link do raportu](07.%20Raporty/testrail-report-3.pdf)
+[Raport2](07%20Raporty/testrail-report-3.pdf)
